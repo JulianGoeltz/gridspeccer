@@ -10,6 +10,10 @@ With the optional argument `--mplrc [file]` one can specify a matplotlibrc to be
 
 A standalone plot file that does not need data is `examples`, this is also used for a unit test (TODO).
 
+![lint flake8](https://github.com/JulianGoeltz/gridspeccer/workflows/lint%20flake8/badge.svg)
+![lint pylint](https://github.com/JulianGoeltz/gridspeccer/workflows/lint%20pylint/badge.svg)
+![lint pyright](https://github.com/JulianGoeltz/gridspeccer/workflows/lint%20pyright/badge.svg)
+
 ![install module](https://github.com/JulianGoeltz/gridspeccer/workflows/install%20module/badge.svg)
 ![gsExample with pseudo tex](https://github.com/JulianGoeltz/gridspeccer/workflows/gsExample%20with%20pseudo%20tex/badge.svg)
 ![gsExample with tex](https://github.com/JulianGoeltz/gridspeccer/workflows/gsExample%20with%20tex/badge.svg?branch=master)
